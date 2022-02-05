@@ -1,6 +1,8 @@
 # training.c
 Exercises with the C programming language 
 
+Fonksiyona gönderilen parametrenin değer ile gönderilmesi
+
 Bir sayının faktöryelinin hesaplanması
 
 Bir Karakterin ASCII kod karşılığın yazılması
