@@ -1,6 +1,6 @@
 # training.c
 Exercises with the C programming language 
-Bu repoda yazdığım kodlar C Sistem Programcılıları Derneğinin kaynaklarından esinlendiğim kod parçalarından oluşmaktadır. 
+Bu repoda yazdığım kodlar C Sistem Programcıları Derneği'nin kaynaklarından esinlendiğim kod parçalarından oluşmaktadır. 
 
 Fonksiyona gönderilen parametrenin değer ile gönderilmesi
 
