@@ -13,3 +13,5 @@ Bir Karakterin bit değerlerinin ikilik sayı sisteminde yazılması
 Bir sayının asal sayı olup olmadığını test eden fonksiyon.
 
 Unsigned Integer türünde tanımlanmış bir sayının ikinin kuvveti olup olmadığının bulunması
+
+Akrep ile yelkovan arasındaki açının bulunması.
