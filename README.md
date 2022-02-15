@@ -16,4 +16,4 @@ Unsigned Integer türünde tanımlanmış bir sayının ikinin kuvveti olup olma
 
 Akrep ile yelkovan arasındaki açının bulunması.(getAngle.c)
 
-Bir kelimenin C programlama dilindeki anahtar kelimelerden olup olmadığını sınayan program (iaKeywords.c)
+Bir kelimenin C programlama dilindeki anahtar kelimelerden olup olmadığını sınayan program (isKeywords.c)
