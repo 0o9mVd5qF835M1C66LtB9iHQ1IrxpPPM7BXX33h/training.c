@@ -15,3 +15,5 @@ Bir sayının asal sayı olup olmadığını test eden fonksiyon.
 Unsigned Integer türünde tanımlanmış bir sayının ikinin kuvveti olup olmadığının bulunması
 
 Akrep ile yelkovan arasındaki açının bulunması.
+
+Bir kelimenin C programlama dilindeki anahtar kelimelerden olup olmadığını sınayan fonksiyon.
