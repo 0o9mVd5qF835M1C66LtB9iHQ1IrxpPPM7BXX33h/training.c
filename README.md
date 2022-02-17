@@ -1,7 +1,7 @@
 # training.c
 Exercises with the C programming language 
 
-Bu repoda yazdığım kodlar C Sistem Programcıları Derneği'nin kaynaklarından esinlendiğim kod parçalarından oluşmaktadır. 
+Bu repoda yazdığım kodlar C Sistem Programcıları Derneği'nin kaynaklarından esinlendiğim kod parçalarından oluşmaktadır. www.csystem.org adresinde bulunan çalışma soruları sayfasındaki problemlerine kendimce uyguladığım çözümleri içermektedir. 
 
 Fonksiyona gönderilen parametrenin değer ile gönderilmesi(callbyValue.c)
 
