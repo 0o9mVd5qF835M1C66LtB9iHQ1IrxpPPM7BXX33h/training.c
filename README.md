@@ -11,8 +11,6 @@ Bir Karakterin ASCII kod karşılığın yazılması(writeAscii.c)
 
 Bir Karakterin bit değerlerinin ikilik sayı sisteminde yazılması(writeBinaryBit.c)
 
-Bir sayının asal sayı olup olmadığını test eden fonksiyon.()
-
 Unsigned Integer türünde tanımlanmış bir sayının ikinin kuvveti olup olmadığının bulunması(isPowTwo.c)
 
 Akrep ile yelkovan arasındaki açının bulunması.(getAngle.c)
