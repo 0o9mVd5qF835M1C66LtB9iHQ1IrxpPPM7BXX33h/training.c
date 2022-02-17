@@ -20,3 +20,5 @@ Akrep ile yelkovan arasındaki açının bulunması.(getAngle.c)
 Bir kelimenin C programlama dilindeki anahtar kelimelerden olup olmadığını sınayan program (isKeywords.c)
 
 Integer değerindeki iki sayının arkadaş sayı olup olmadığını sınayan fonksiyon (areFriends.c)
+
+Integer değerinde oluşturulan bir sayının asal sayı olup olmadığının sınanmasını sağlayan fonksiyon(isCardinalNumber.c)
