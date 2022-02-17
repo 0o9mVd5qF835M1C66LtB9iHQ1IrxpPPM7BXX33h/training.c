@@ -1,5 +1,6 @@
 # training.c
 Exercises with the C programming language 
+
 Bu repoda yazdığım kodlar C Sistem Programcıları Derneği'nin kaynaklarından esinlendiğim kod parçalarından oluşmaktadır. 
 
 Fonksiyona gönderilen parametrenin değer ile gönderilmesi(callbyValue.c)
@@ -17,3 +18,5 @@ Unsigned Integer türünde tanımlanmış bir sayının ikinin kuvveti olup olma
 Akrep ile yelkovan arasındaki açının bulunması.(getAngle.c)
 
 Bir kelimenin C programlama dilindeki anahtar kelimelerden olup olmadığını sınayan program (isKeywords.c)
+
+Integer değerindeki iki sayının arkadaş sayı olup olmadığını sınayan fonksiyon (areFriends.c)
