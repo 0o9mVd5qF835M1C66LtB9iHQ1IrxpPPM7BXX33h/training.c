@@ -1,7 +1,7 @@
 # training.c
 Exercises with the C programming language 
 
-Bu repoda yazdığım kodlar C Sistem Programcıları Derneği'nin kaynaklarından esinlendiğim kod parçalarından oluşmaktadır. C Sistem Programcıları Derneği'nin web adresinde bulunan çalışma soruları sayfasındaki problemlerine kendimce uyguladığım çözümleri içermektedir. 
+Bu repoda yazdığım kodlar C Sistem Programcıları Derneği'nin kaynaklarından esinlendiğim kod parçalarından oluşmaktadır. C Sistem Programcıları Derneği'nin web adresinde bulunan çalışma soruları sayfasındaki problemlerine kendimce uyguladığım çözümleri içermektedir. (https://csystem.org/calisma-sorulari)
 
 Fonksiyona gönderilen parametrenin değer ile gönderilmesi(callbyValue.c)
 
