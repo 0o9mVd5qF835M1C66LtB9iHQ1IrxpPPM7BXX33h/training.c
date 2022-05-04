@@ -1,5 +1,5 @@
-Belirli Aralıklarta Bir Kez Rastgele Değer Üreten Fonksiyon (Random.cpp) (https://csystem.org/kaynak-kod-arsivi?page=0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C3)
-
+Belirli Aralıklarta Bir Kez Rastgele Değer Üreten Fonksiyon (Random.cpp) 
+(https://csystem.org/kaynak-kod-arsivi?page=0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C3)
 Aşağıdaki Random sınıfı fonksiyon nesnelerinin kullanımına güzel bir örnek oluşturuyor. 
 Random isimli sınıfın iki private elemanı üretilecek rastgele sayıların en düşük ve en yüksek değerlerini tutuyor.
 Sınıfın kurucu fonksiyonu ile bu değerler dışarıdan alınıyor. Sınıfın diğer elemanı ise standart set sınıfından bir nesne. 
